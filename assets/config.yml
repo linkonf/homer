@@ -1,6 +1,6 @@
 title: "Dashboard for heroku-apps container"
 subtitle: "Homer"
-logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/logo.png"
+logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
 header: false
@@ -64,25 +64,25 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "alist"
-        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/assets/tools/alist.ico"
+        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/assets/tools/alist.png"
         subtitle: "A file list program"
         tag: "app"
         url: "/portal/alist"
         target: "_blank" # optional html a tag target attribute
       - name: "qbit"
-        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/assets/tools/vue.png"
+        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/assets/tools/vue.png"
         subtitle: "webui for qbittorrent"
         tag: "app"
         url: "/portal/qbit"
         target: "_blank" # optional html a tag target attribute
       - name: "metube"
-        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/assets/tools/metube.png"
+        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/assets/tools/metube.png"
         subtitle: "Web GUI for yt-dlp"
         tag: "app"
         url: "/portal/metube"
         target: "_blank" # optional html a tag target attribute
       - name: "ttyd"
-        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/assets/tools/ttyd.png"
+        logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/assets/tools/ttyd.png"
         subtitle: "Share your terminal over the web"
         tag: "app"
         url: "/portal/ttyd"
