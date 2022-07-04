@@ -63,13 +63,13 @@ services:
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
-       - name: "alist"
+      - name: "alist"
         logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/assets/tools/alist.ico"
         subtitle: "A file list program"
         tag: "app"
         url: "/portal/alist"
         target: "_blank" # optional html a tag target attribute
-       - name: "qbit"
+      - name: "qbit"
         logo: "https://cdn.jsdelivr.net/gh/linkonf/homer/assets/tools/vue.png"
         subtitle: "webui for qbittorrent"
         tag: "app"
