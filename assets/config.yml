@@ -67,7 +67,7 @@ services:
         logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/assets/tools/alist.png"
         subtitle: "A file list program"
         tag: "app"
-        url: "/portal/alist"
+        url: "/alist"
         target: "_blank" # optional html a tag target attribute
       - name: "qbit"
         logo: "https://cdn.jsdelivr.net/gh/linkonf/homer@master/assets/tools/vue.png"
